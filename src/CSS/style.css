@@ -1,0 +1,19 @@
+/* COLOR FOR BACKGROUND */
+.bg-gray{
+    background-color: #e0e0e0;
+}
+
+.bg-nav{
+    background-color: #333333;
+}
+
+/* COLOR FOR HEADING */
+.heading-color{
+    color: #377ea1;
+}
+
+/* HOVER EFFECT */
+li:hover{
+    background-color: #008c22;
+}
+
